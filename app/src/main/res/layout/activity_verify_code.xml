@@ -19,7 +19,7 @@
         app:layout_constraintTop_toTopOf="parent">
         <TextView
             android:id="@+id/verifyCodeTitle"
-            style="@style/Theme.Latihan3ActivityMonitoring.Title"
+            style="@style/Theme.Latihan3activitymonitoring.Title"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="?attr/actionBarSize"
@@ -29,7 +29,7 @@
 
         <TextView
             android:id="@+id/verifyCodeSubtitle"
-            style="@style/Theme.Latihan3ActivityMonitoring.TextBase"
+            style="@style/Theme.Latihan3activitymonitoring.TextBase"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/vc_subtitle"
@@ -55,7 +55,7 @@
 
         <TextView
             android:id="@+id/verifyCodePhar1"
-            style="@style/Theme.Latihan3ActivityMonitoring.TextBase"
+            style="@style/Theme.Latihan3activitymonitoring.TextBase"
             android:textSize="14sp"
             android:gravity="center"
             android:layout_width="wrap_content"
@@ -92,7 +92,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="16dp"
-            style="@style/Theme.Latihan3ActivityMonitoring.TextBase"
+            style="@style/Theme.Latihan3activitymonitoring.TextBase"
             android:textColor="@color/gunmetal"
             android:gravity="center_horizontal"
             android:text="@string/vc_no_kk"/>

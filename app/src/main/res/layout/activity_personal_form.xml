@@ -12,7 +12,7 @@
 
     <TextView
         android:id="@+id/labelNickName"
-        style="@style/Theme.Latihan3ActivityMonitoring.Title"
+        style="@style/Theme.Latihan3activitymonitoring.Title"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/field_name"
@@ -33,7 +33,7 @@
 
     <TextView
         android:id="@+id/labelAge"
-        style="@style/Theme.Latihan3ActivityMonitoring.Title"
+        style="@style/Theme.Latihan3activitymonitoring.Title"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/field_age"
