@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="Theme.Latihan3ActivityMonitoring.Title">
+    <style name="Theme.Latihan3activitymonitoring.Title">
         <item name="android:textColor">@color/black3</item>
         <item name="android:fontFamily">@font/nunito_bold</item>
         <item name="android:textStyle">bold</item>
         <item name="android:textSize">@dimen/size_title</item>
     </style>
 
-    <style name="Theme.Monitory.BigTitle" parent="Theme.Latihan3ActivityMonitoring.Title">
+    <style name="Theme.Monitory.BigTitle" parent="Theme.Latihan3activitymonitoring.Title">
         <item name="fontFamily">@font/rubik_regular</item>
     </style>
 
-    <style name="Theme.Latihan3ActivityMonitoring.TextBase">
+    <style name="Theme.Latihan3activitymonitoring.TextBase">
         <item name="android:textSize">@dimen/size_base</item>
         <item name="android:textColor">@color/black3</item>
         <item name="android:fontFamily">@font/rubik_regular</item>
