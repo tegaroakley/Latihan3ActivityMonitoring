@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="finishTextMessage" type="id">1000275</item>
+    <item name="fieldNickName" type="id">1000303</item>
+    <item name="labelNickName" type="id" />
+    <item name="labelAge" type="id" />
+    <item name="fieldAge" type="id" />
+    <item name="btnNext" type="id" />
+</resources>
